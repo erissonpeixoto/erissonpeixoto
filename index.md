@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bem vindo a minha página. 
+
+Sou formado em Ciência da Computação pela Faculdade Farias Brito, Analista e Desenvolvedor de Sistemas, sempre buscando novos conhecimentos e adquirindo bagagem profissional. Tenho conhecimento nas linguagens Java, PHP e **Ruby <3**. Ruby tem sido a linguagem que mais me identifiquei e por isso é a minha preferida, é onde gasto meu tempo livre estudando e me aperfeiçoando. 
 
 You can use the [editor on GitHub](https://github.com/erissonpeixoto/erissonpeixoto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
